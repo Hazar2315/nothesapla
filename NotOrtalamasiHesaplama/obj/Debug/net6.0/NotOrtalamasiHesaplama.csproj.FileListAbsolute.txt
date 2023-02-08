@@ -1,0 +1,15 @@
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\bin\Debug\net6.0\NotOrtalamasiHesaplama.exe
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\bin\Debug\net6.0\NotOrtalamasiHesaplama.deps.json
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\bin\Debug\net6.0\NotOrtalamasiHesaplama.runtimeconfig.json
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\bin\Debug\net6.0\NotOrtalamasiHesaplama.dll
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\bin\Debug\net6.0\NotOrtalamasiHesaplama.pdb
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.csproj.AssemblyReference.cache
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.AssemblyInfoInputs.cache
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.AssemblyInfo.cs
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.dll
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\refint\NotOrtalamasiHesaplama.dll
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.pdb
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\NotOrtalamasiHesaplama.genruntimeconfig.cache
+C:\Users\hazar\Desktop\C#\NotOrtalamasiHesaplama\NotOrtalamasiHesaplama\obj\Debug\net6.0\ref\NotOrtalamasiHesaplama.dll
